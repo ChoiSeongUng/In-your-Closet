@@ -14,7 +14,7 @@ https://drive.google.com/file/d/122Y6OrW-x7wW_MGKJ1ZlXAzZfxfgaVXg/view?usp=shari
 
  모든 블록마다 Description을 추가해두었으니 확인해주시면 감사하겠습니다.
 
-3. 제출 파일 리스트
+3. 파일 리스트
 	1. In your closet_project (json 파일)
 	2. closet_data (csv 파일, json 파일에서의 load data, 선호도 조사 데이터)
 	3. In Your Closet_pitch deck (ppt 파일)
